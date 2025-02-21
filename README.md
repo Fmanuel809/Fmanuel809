@@ -1,8 +1,6 @@
-# 👋 Hi! I'm Felix M. Martinez
+## 👋 Hi! I'm Felix M. Martinez
 
-## 🚀 About Me
-
-I am an experienced **Systems Engineer** with a strong background in **software development**, **system architecture**, and **DevOps**. Currently, I lead the **Department of System Development and Implementation** at a government institution in the Dominican Republic, where I focus on delivering robust, scalable, and secure technology solutions. My expertise lies in designing and implementing efficient systems that drive digital transformation and operational excellence.
+I am an experienced Systems Engineer with a strong background in software development,*system architecture, and DevOps. Currently, I lead the Department of System Development and Implementation at a government institution in the Dominican Republic, where I focus on delivering robust, scalable, and secure technology solutions. My expertise lies in **designing** and **implementing** efficient systems that drive **digital transformation** and **operational excellence**.
 
 ## 🛠️ Technologies & Tools
 
